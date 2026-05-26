@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productuave",
+        "uuid": 8124368,
+        "checksum": "yinnce"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
